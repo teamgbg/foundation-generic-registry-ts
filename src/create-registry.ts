@@ -1,11 +1,6 @@
 /**
  * @system generic-registry
  * @status handwritten
- * @edit edit directly
- *
- * Factory function for creating typed string-keyed registries.
- * Follows the same pattern as createCache, createRateLimiter, createWatchdog:
- * name, auto-registration, central visibility.
  */
 
 import { genericRegistryIndex } from "./registry.ts";

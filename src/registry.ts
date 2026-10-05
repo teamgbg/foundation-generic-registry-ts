@@ -1,10 +1,6 @@
 /**
  * @system generic-registry
  * @status handwritten
- * @edit edit directly
- *
- * Process-global registry of all generic registries for observability and control.
- * Follows the same shape as CacheRegistry, RateLimitRegistry, WatchdogRegistry.
  */
 
 import type { RegistryStats } from "./types.ts";
