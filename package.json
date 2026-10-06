@@ -8,7 +8,7 @@
 	"capability": "Generic typed string-keyed registry with central visibility, duplicate detection, and disable/enable per registry instance.",
 	"tier": "foundation",
 	"type": "module",
-	"version": "1.0.12",
+	"version": "1.0.15",
 	"description": "Generic typed string-keyed registry with central visibility, duplicate detection, and disable/enable per registry instance.",
 	"imports": {
 		"#generic-registry/*": "./src/*",
